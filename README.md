@@ -1,5 +1,4 @@
-<h1>👩🏻‍💻 Sobre mim</h1> 
-<p>Olá, meu nome é Cecília, muito prazer. 😄</p>
+<h1>👩🏻‍💻 Olá, meu nome é Cecília 😄</h1> 
 <p>🌍 Brasileira, natural de São Paulo/SP. </p>
 <p>💻 Estudante de Desenvolvimento Web Full-Stack na Trybe.</p>
 <p>📬 Email para contato: ceci.cacais@gmail.com </p>
