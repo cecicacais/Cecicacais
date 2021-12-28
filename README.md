@@ -3,6 +3,8 @@
 <p>💻 Estudante de Desenvolvimento Web Full-Stack na Trybe.</p>
 <p>📬 Email para contato: ceci.cacais@gmail.com </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cec%C3%ADlia-cacais-kacic/)](https://www.linkedin.com/in/cec%C3%ADlia-cacais-kacic/)
+
 <h1>🛠️ Tecnologias e Linguagens 💬</h1>
 
 ![css](https://user-images.githubusercontent.com/85755031/147395419-b4f459e4-62c6-4112-a802-2018308ac887.jpg)
