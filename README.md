@@ -15,7 +15,7 @@
 ![react](https://user-images.githubusercontent.com/85755031/147395432-d29a3967-b9c1-4580-81fa-e6ad338f7bda.jpg)
 ![redux](https://user-images.githubusercontent.com/85755031/147395433-3a43caa5-8b66-41a6-9aba-124678c303f4.jpg)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecicacais&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecicacais&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=cecicacais&show_icons=true&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecicacais&layout=compact&theme=dracula"/>
+</div>
