@@ -1,6 +1,6 @@
 <h1>👩🏻‍💻 Olá, meu nome é Cecília 😄</h1> 
 <p>🌍 Brasileira, natural de São Paulo/SP. </p>
-<p>💻 Estudante de Desenvolvimento Web Full-Stack na Trybe.</p>
+<p>💻 Desenvolvedora Web Full-Stack.</p>
 <p>📬 Email para contato: ceci.cacais@gmail.com </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cec%C3%ADlia-cacais-kacic/)](https://www.linkedin.com/in/cec%C3%ADlia-cacais-kacic/)
